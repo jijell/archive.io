@@ -1,0 +1,83 @@
+*{
+    font-family: Arial;
+    color: white;
+}
+
+body{
+    background-color: black;  
+}
+
+h1.head{
+    color: darkorange;
+}
+
+h1.cerita{
+    color: darkorange;
+}
+
+h1.sosmed{
+    color: darkorange;
+}
+
+h1.linkweb{
+    color: darkorange;
+}
+
+h1.pendidikan{
+    color: darkorange;
+}
+
+h1.rencana{
+    color: darkorange;
+}
+
+h1.pertegas{
+    color: darkorange;
+}
+
+span.trims{
+    color: yellow;
+}
+
+h4.udhpub{
+    color: greenyellow;
+}
+
+h4.blmpub{
+    color: greenyellow;
+}
+
+h4.why{
+    color: greenyellow;
+}
+
+h4.lebih {
+    color: greenyellow;
+}
+
+h4.dea{
+    color: greenyellow;
+}
+
+span.ask{
+    color: lightskyblue;
+}
+
+b.ful{
+    color: lightskyblue;
+}
+
+h3.hr{
+    display: flex;
+    justify-content: center;
+    color: greenyellow;
+}
+
+p.KEEP{
+    display: flex;
+    justify-content: center;
+}
+
+span.yt{
+    color: lightskyblue;
+}
